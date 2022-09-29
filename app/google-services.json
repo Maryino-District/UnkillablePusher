@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652444660478",
+    "project_id": "unkillablepusher",
+    "storage_bucket": "unkillablepusher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652444660478:android:bfa2b16050f432ae342baf",
+        "android_client_info": {
+          "package_name": "com.example.unkillablepusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652444660478-b29vqlfk5ugieo4o9sv61eqkh2q4j417.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.unkillablepusher",
+            "certificate_hash": "ed92b079339464b1a97e829d8d3451da4716620d"
+          }
+        },
+        {
+          "client_id": "652444660478-t9foeunsb1r67samr1f1b3sq11nec084.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkPL273YGXczCpLOgpgglRSUJ-z62bg2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652444660478-t9foeunsb1r67samr1f1b3sq11nec084.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
